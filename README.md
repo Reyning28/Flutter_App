@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # productividad_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter_App
+App creada desde 0 con flutter, task manager agil y facil para el uso del usuario 
+
