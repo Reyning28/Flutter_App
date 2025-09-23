@@ -1,0 +1,6 @@
+# This section configures the flutter_launcher_icons package to generate app icons for Android and iOS.
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "icon.png"
+  remove_alpha_ios: true
